@@ -1,0 +1,7 @@
+WEB-INF/*.log
+WEB-INF/tmp/*
+WEB-INF/log/*
+WEB-INF/appengine-generated
+WEB-INF/setup.rb
+WEB-INF/.ghissues
+WEB-INF/.ghcache
